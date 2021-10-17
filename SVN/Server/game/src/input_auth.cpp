@@ -1,5 +1,9 @@
 //find;
 
+void CInputAuth::Login(LPDESC d, const char* c_pData)
+
+//find in function;
+
 	if (g_bNoMoreClient)
 
 //add above;
